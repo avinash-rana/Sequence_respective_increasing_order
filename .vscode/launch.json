@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SequenceSeries",
+            "request": "launch",
+            "mainClass": "SequenceSeries",
+            "projectName": "Sequence_respective_increasing_order_b313c94"
+        }
+    ]
+}
